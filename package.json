@@ -12,7 +12,10 @@
     "react-native-console-panel": "^0.1.0",
     "react-native-debug-stylesheet": "^0.1.1",
     "react-native-image-picker": "^0.22.9",
-    "react-native-lightbox": "^0.6.0"
+    "react-native-lightbox": "^0.6.0",
+    "tunk": "^1.6.0",
+    "tunk-action-middleware": "^1.0.2",
+    "tunk-react": "^1.5.1"
   },
   "jest": {
     "preset": "jest-react-native"
